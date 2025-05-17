@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "d4ac65f4-2d78-4071-b2ee-c027ce6607e2",
+    "Nome": "leona",
+    "Descricao": "teste",
+    "Preco": 20,
+    "Estoque": 20,
+    "QuantidadeNoPedido": null
+  },
+  {
+    "Id": "d4ac65f4-2d78-4071-b2ee-c027ce6607e2",
+    "Nome": "leona",
+    "Descricao": "teste",
+    "Preco": 20,
+    "Estoque": 20,
+    "QuantidadeNoPedido": null
+  }
+]
